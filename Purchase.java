@@ -19,12 +19,7 @@ class Purchase
 				if(temp>m.q[0])
 				{
 					System.out.println("This much quantity is not available in stock !!");
-					//System.out.println("Press 1 to Select quantity again or Press 0 for menu: ");
-					//ans = sc.nextInt();
-					//if(ans == 1)
-					//	goto case 1;
-					//else
-						m.menu1();
+					m.menu1();
 				}
 				else
 				{
@@ -39,11 +34,7 @@ class Purchase
 				if(temp>m.q[1])
 				{
 					System.out.println("This much quantity is not available in stock !!");
-					//System.out.println("Press 1 to Select quantity again or Press 0 for menu: ");								//ans = sc.nextInt();
-					//if(ans == 1)
-					//	continue;
-					//else
-						m.menu1();
+					m.menu1();
 				}
 				else
 				{
@@ -58,12 +49,7 @@ class Purchase
 				if(temp>m.q[2])
 				{
 					System.out.println("This much quantity is not available in stock !!");
-					//System.out.println("Press 1 to Select quantity again or Press 0 for menu: ");
-					//ans = sc.nextInt();
-					//if(ans == 1)
-					//	continue;
-					//else
-						m.menu1();
+					m.menu1();
 				}
 				else
 				{
@@ -78,12 +64,7 @@ class Purchase
 				if(temp>m.q[3])
 				{
 					System.out.println("This much quantity is not available in stock !!");
-					//System.out.println("Press 1 to Select quantity again or Press 0 for menu: ");
-					//ans = sc.nextInt();
-					//if(ans == 1)
-					//	continue;
-					//else
-						m.menu1();
+					m.menu1();
 				}
 				else
 				{
@@ -98,12 +79,7 @@ class Purchase
 				if(temp>m.q[4])
 				{
 					System.out.println("This much quantity is not available in stock !!");
-					//System.out.println("Press 1 to Select quantity again or Press 0 for menu: ");
-					//ans = sc.nextInt();
-					//if(ans == 1)
-					//	continue;
-					//else
-						m.menu1();
+					m.menu1();
 				}
 				else
 				{
@@ -118,12 +94,7 @@ class Purchase
 				if(temp>m.q[5])
 				{
 					System.out.println("This much quantity is not available in stock !!");
-					//System.out.println("Press 1 to Select quantity again or Press 0 for menu: ");
-					//ans = sc.nextInt();
-				//	if(ans == 1)
-					//	continue;
-					//else
-						m.menu1();
+					m.menu1();
 				}
 				else
 				{
